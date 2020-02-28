@@ -6,3 +6,9 @@ This project is written in Python3. And, the useful libraries are listed here fo
 1. **Pytorch**
 2. **NumPy**
 3. **Scikit-learn**
+********************
+Here are __four__ Jupyter Notebook scripts. They actually include **4 main steps** in the project, respectively:
+1. Load_and_prepare_data.ipynb (Downloading raw data and examining data)
+2. Data_loader_PyTorch.ipynb   (Data pre-processing)
+3. Linear_classifier_Pytorch.ipynb (Linear classifier with PyTorch, )
+4. Final lab_PyTorch_submitable.ipynb (Prepare my own model with a pretrained model : *resnet18*)
